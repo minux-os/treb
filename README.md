@@ -1,6 +1,6 @@
 # treb
 downloads here:
-1v: https://github.com/minux-os/treb/raw/refs/heads/main/treb.zip
+[1v](https://download1v.minuxos.workers.dev/)
 
 about:
 treb - tool for creating distro
