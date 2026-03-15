@@ -4,3 +4,5 @@ downloads here:
 
 about:
 treb - tool for creating distro
+login: treb
+password: minux
