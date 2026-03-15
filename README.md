@@ -8,7 +8,5 @@ Treb - tool for creating distro
 
 
 # Login details
-==========================
-/       login: treb       \
-/       password: minux    \ 
-/===========================
+========================== / login: treb ====== /
+/ password: minux \ /===========================
