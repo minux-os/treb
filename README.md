@@ -1,8 +1,8 @@
-# treb
+# Treb
 downloads here:
 [1v](https://download1v.minuxos.workers.dev/)
 
-about:
+# About
 treb - tool for creating distro
 
 
