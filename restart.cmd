@@ -1,0 +1,2 @@
+color
+call term.cmd

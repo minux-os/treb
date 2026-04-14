@@ -1,0 +1,2 @@
+cd..
+del term.cmd
